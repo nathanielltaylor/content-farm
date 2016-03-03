@@ -52,3 +52,6 @@ gem 'valid_attribute', group: [:development, :test]
 gem 'shoulda-matchers', group: [:development, :test], require: false
 gem 'devise'
 gem 'foundation-rails'
+gem 'nokogiri'
+gem 'open_uri_redirections'
+gem 'pry'
