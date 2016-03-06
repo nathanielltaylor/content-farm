@@ -1,5 +1,3 @@
-require 'open-uri'
-
 class HomesController < ApplicationController
   def index
     title_array = Title.all
