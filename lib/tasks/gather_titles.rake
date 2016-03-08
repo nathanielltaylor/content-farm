@@ -13,5 +13,6 @@ namespace :gather_titles do
         Title.create(title: t)
       end
     end
+    puts "Titles gathered"
 end
 #this needs to be scheduled to happen regularly
